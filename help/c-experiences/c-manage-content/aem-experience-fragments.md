@@ -86,7 +86,7 @@ Experience fragments are created in AEM. For more information, see:
 
 2. In the dialog box that displays, select [!UICONTROL Publish] to publish all of the assets within the experience fragment to [!DNL Target].
 
-## Using Experiment Fragments in Target Activities {#section_17CE4BE6B2B74CCEBAE0C68DEB84ABB9}
+## Using Experience Fragments in Target Activities {#section_17CE4BE6B2B74CCEBAE0C68DEB84ABB9}
 
 After performing the preceding tasks, the experience fragment displays on the [!UICONTROL Offers] page in Target.
 
